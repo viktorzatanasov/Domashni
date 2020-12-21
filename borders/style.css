@@ -1,0 +1,150 @@
+main{
+    text-align: center;
+    border: 3px red;
+    border-bottom-style: dotted;
+}
+h1{
+  
+    border-style: solid;
+    border-width: 40px;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top-color: lightblue;
+    border-right-color: gold;
+    border-left-color: navy;
+    border-bottom-color: rgb(38, 226, 201);
+    display: inline-block;
+    border-right-width: 8px;
+    border-bottom-width: 8px;
+    border-left-width: 3px;
+    border-top-width:3px ;
+    background-color: rgb(157, 188, 245);
+    font-family:  sans-serif;
+    text-shadow: 2px 2px #f6f1f1;
+}
+.border{
+    border: 4px green;
+ border-style: dotted;
+ padding: 5px;
+}
+img{
+
+    width: 250px;
+    height: 200px;
+}
+#slika2{
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+img:hover{
+ border-color: red;
+ display: inline-block;
+ transform: scale(0.8);
+ overflow: hidden;
+ padding:10px;
+ 
+
+ 
+}
+#p1{
+    color: white;
+  background-color: green;
+  border: 4px black;
+ border-style: dashed;
+ padding: 10px 10px 10px 10px;
+ margin: 10px;
+ display: inline-block;
+ height: 30px;
+ width: 200px;
+ font-size: x-large;
+ font-family: fantasy;
+ background-clip: content-box;
+}
+#p2{
+    color: white;
+  background-color: green;
+  border: 4px black;
+ border-style: dashed;
+ padding: 10px 10px 10px 10px;
+ margin: 10px;
+ display: inline-block;
+ height: 30px;
+ width: 200px;
+ font-size: x-large;
+ font-family: fantasy;
+ background-clip: padding-box;
+}
+#p3{
+  color: white;
+  background-color: green;
+  border: 4px black;
+ border-style: dashed;
+ padding: 10px 10px 10px 10px;
+ margin: 10px;
+ display: inline-block;
+ height: 30px;
+ width: 200px;
+ font-size: x-large;
+ font-family: fantasy;
+ 
+}
+div{
+    text-align: center;
+}
+div p{
+    text-align: right;
+    width: 350px;
+    border: 0px solid white;
+    margin: 0px 0px 0px 300px;
+    padding: 5px;
+    color: white;
+}
+#p16{
+background-color:  rgb(0,136,221);
+}
+#p17{
+    background-color:rgb(0,149,226);
+}
+#p18{
+    background-color:rgb(0,160,230);
+}
+#p4{
+    background-color: rgb(48,170,233);
+}
+#p5{
+    background-color: rgb(84,182,237);
+}
+#p6{
+    background-color:rgb(114,193,240);
+}
+#p7{
+    background-color:rgb(140,202,242);
+}
+#p8{
+    background-color: rgb(0,187,136);
+}
+#p9{
+    background-color:rgb(245,176,204);
+}
+#p10{
+    background-color:rgb(246,159,192);
+}
+#p11{
+    background-color: rgb(245,140,178);
+}
+#p12{
+    background-color: rgb(244,123,166);
+}
+#p13{
+    background-color: rgb(243,106,152);
+}
+#p14{
+    background-color:rgb(244,90,139);
+}
+#p15{
+    background-color: rgb(238,62,128);
+}
